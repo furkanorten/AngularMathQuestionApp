@@ -1,6 +1,12 @@
-# MathPlay
+# AngularMathQuestionApp
+
+### Angular application that asks a math question and shows how many seconds you know the correct answer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+## Installing Packages
+
+Run `npm install` for installing node modules.
 
 ## Development server
 
